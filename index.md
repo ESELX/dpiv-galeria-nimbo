@@ -4,8 +4,8 @@ icon: lucide/users
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: "Nome do Grupo"
-hero_subtitle: "Design de Produto IV · 2025-26"
+hero_title: "Pó Pó"
+hero_subtitle: "Carrinhos de Madeira"
 hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center
@@ -13,11 +13,6 @@ published: true
 course: "DesignDeProdutoIV"
 group_name: ""
 group_number: ""
-members:
-  - number: ""
-    name: ""
-  - number: ""
-    name: ""
 ---
 
 # Nome do Grupo
@@ -35,6 +30,10 @@ members:
 ---
 
 ## Contexto de Design
+![](attachments/placeholder.png)
+> Nesta zona pretenderão mostrar o que relaciona estes produtos que apresentam na galeria - a temática, conceito comum, objectivos comuns, brincadeiras (funções) comuns, entre outros...
+
+(devem colocar imagens no corpo a qq momento, bastará que as arrastem para aqui.)
 
 Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md](contexto.md).
 
@@ -51,13 +50,15 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
 <!-- markdownlint-disable MD033 -->
 <div class="gallery-grid">
 
+  <!-- duplicar o bloco abaixo para cada produto do grupo -->
+
   <a class="gallery-card" href="produtos/_modelo/">
     <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
     <h3>Nome do Produto</h3>
     <p>Nome do Aluno</p>
   </a>
 
-  <!-- duplicar o bloco acima para cada produto do grupo -->
+  <!-- duplicar o bloco acima para cada produto do grupo  e substituir _modelo em ambas por <numero>-<nome> -->
 
 </div>
 <!-- markdownlint-enable MD033 -->

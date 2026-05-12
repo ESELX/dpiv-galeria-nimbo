@@ -3,7 +3,7 @@ title: "Contexto de Design"
 icon: lucide/book-open
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
+hero_image: ../attachments/hero.jpg
 hero_title: "Contexto de Design"
 hero_subtitle: "Enquadramento do grupo"
 hero_height: 60vh
@@ -22,15 +22,15 @@ Página explicativa do contexto, em concordância com a apresentação produzida
 
 ### Resumo (PT)
 
-[texto em português, máx. 500 palavras]
+Coloque aqui o resumo do projeto em português (máximo 500 palavras).
 
 ### Abstract (EN)
 
-[english version, max 500 words]
+Place here the abstract in English (max 500 words).
 
 ## 2. Referências Coletivas
 
-### 2.1. Recolha de Objetos a Redesenhar
+### 2.1. Recolha de Objetos a Redesenhar/Remisturar
 
 Catálogo de objetos de partida que o grupo identificou para o redesenho. Para cada objeto: imagem, origem, motivo da escolha.
 
