@@ -1,17 +1,17 @@
 ---
-title: "Nome do Grupo"
+title: Nome do Grupo
 icon: lucide/users
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: "Pó Pó"
-hero_subtitle: "Carrinhos de Madeira"
+hero_title: Pó Pó
+hero_subtitle: Carrinhos de Madeira
 hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center
 published: true
-course: "DesignDeProdutoIV"
-group_name: ""
+course: DesignDeProdutoIV
+group_name: NIMBO
 group_number: ""
 ---
 
@@ -21,11 +21,11 @@ group_number: ""
 
 ## Elementos do Grupo
 
-| Número  | Nome    |
-| ------- | ------- |
-| 20XXXXX | Aluno A |
-| 20YYYYY | Aluno B |
-| 20ZZZZZ | Aluno C |
+| Número  | Nome          |
+| ------- | ------------- |
+| 2024316 | Adriana Gomes |
+| 20YYYYY | Aluno B       |
+| 20ZZZZZ | Aluno C       |
 
 ---
 
@@ -41,7 +41,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
 
 ---
 
-## Galeria de Produtos
+## Galeria de produtos
 
 <!-- Cada thumbnail liga à página individual de cada produto.
      Cada produto vive em produtos/<numero>-<nome>/index.md
@@ -55,7 +55,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
   <a class="gallery-card" href="produtos/_modelo/">
     <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
     <h3>Nome do Produto</h3>
-    <p>Nome do Aluno</p>
+    <p>Adriana Gomes</p>
   </a>
 
   <!-- duplicar o bloco acima para cada produto do grupo  e substituir _modelo em ambas por <numero>-<nome> -->
