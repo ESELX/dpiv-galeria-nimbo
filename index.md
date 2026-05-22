@@ -52,9 +52,9 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
 
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
-  <a class="gallery-card" href="produtos/_modelo/">
-    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
-    <h3>Nome do Produto</h3>
+  <a class="gallery-card" href="produtos/Nimbinho/">
+    <img src="produtos/Nimbinho/attachments/hero.jpg" alt="" />
+    <h3>Bardo</h3>
     <p>Adriana Gomes</p>
   </a>
 
