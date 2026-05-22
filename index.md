@@ -4,7 +4,7 @@ icon: lucide/users
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: Pó Pó
+hero_title: Três mundos, Uma imaginação.
 hero_subtitle: Carrinhos de Madeira
 hero_height: 100vh
 hero_overlay: 0.3
