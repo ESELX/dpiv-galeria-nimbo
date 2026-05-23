@@ -57,6 +57,16 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
     <h3>Bardo</h3>
     <p>Adriana Gomes</p>
   </a>
+    <a class="gallery-card" href="produtos/Fante/">
+    <img src="produtos/Nimbinho/attachments/bardo.jpg" alt="" />
+    <h3>Elefante</h3>
+    <p>Duarte Pereira</p>
+  </a>
+    <a class="gallery-card" href="produtos/Leia/">
+    <img src="produtos/Nimbinho/attachments/bardo.jpg" alt="" />
+    <h3>Baleia</h3>
+    <p>Laura Hagemeijer </p>
+  </a>
 
   <!-- duplicar o bloco acima para cada produto do grupo  e substituir _modelo em ambas por <numero>-<nome> -->
 
