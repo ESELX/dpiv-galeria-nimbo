@@ -14,7 +14,7 @@ student_name: ""
 student_number: ""
 ---
 
-# Nimbinho
+# Bardo
 
 <!--
   HERO: idealmente uma pseudo-sessão fotográfica do produto
