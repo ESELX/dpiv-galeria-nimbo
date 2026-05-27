@@ -21,11 +21,11 @@ group_number: ""
 
 ## Elementos do Grupo
 
-| Número  | Nome          |
-| ------- | ------------- |
-| 2024316 | Adriana Gomes |
-| 20YYYYY | Aluno B       |
-| 20ZZZZZ | Aluno C       |
+| Número  | Nome             |
+| ------- | ---------------- |
+| 2024316 | Adriana Gomes    |
+| 2024567 | Duarte Pereira   |
+| 2024273 | Laura Hagemeijer |
 
 ---
 
