@@ -5,7 +5,7 @@ tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg.jpg
 hero_title: Três mundos, Uma imaginação.
-hero_subtitle: Carrinhos de Madeira
+hero_subtitle: Adriana, Duarte e Laura
 hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center
