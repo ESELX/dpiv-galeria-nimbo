@@ -14,7 +14,7 @@ student_name: ""
 student_number: ""
 ---
 
-# Bardo
+# Tico
 
 <!--
   HERO: idealmente uma pseudo-sessão fotográfica do produto
