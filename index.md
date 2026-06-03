@@ -54,7 +54,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
 
   <a class="gallery-card" href="produtos/Nimbinho/">
     <img src="produtos/Tico/attachments/capaindividual.png" alt="" />
-    <h3>Bardo</h3>
+    <h3>Tico</h3>
     <p>Adriana Gomes</p>
   </a>
     <a class="gallery-card" href="produtos/Fante/">
