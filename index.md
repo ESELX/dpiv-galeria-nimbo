@@ -15,7 +15,7 @@ group_name: NIMBO
 group_number: ""
 ---
 
-# Nome do Grupo
+# Nimbo
 
 > Substituam este parágrafo por uma frase de apresentação do grupo (uma linha, conceptualmente forte). A imagem de capa acima (`attachments/hero.jpg`) deve ser uma **fotografia de conjunto** dos trabalhos do grupo, mais conceptual, que espelhe a estratégia coletiva.
 
@@ -52,7 +52,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
 
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
-  <a class="gallery-card" href="produtos/Nimbinho/">
+  <a class="gallery-card" href="produtos/Tico/">
     <img src="produtos/Tico/attachments/capaindividual.png" alt="" />
     <h3>Tico</h3>
     <p>Adriana Gomes</p>

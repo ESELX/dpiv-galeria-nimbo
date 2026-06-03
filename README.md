@@ -208,13 +208,13 @@ A página de grupo (`index.md` + `contexto.md`) trabalha sobretudo C+E. Cada pá
 
 ## 9. Resolver problemas comuns
 
-| Problema                                                        | Causa provável                                              | Solução                                                                                                            |
-| --------------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| As imagens não aparecem na galeria pública                      | Links em formato Wiki `![[ ]]`                              | Verificar que estão no formato Markdown `![](caminho)`. Vault config deve ter "Use \[\[Wikilinks]]" desligado.     |
-| Hero não aparece numa sub-página (`processo.md`, `contexto.md`) | Falta o prefixo `../`                                       | Frontmatter deve ter `hero_image: ../attachments/hero.jpg`                                                         |
-| Hero não aparece no `index.md` da raiz do grupo                 | Tem um prefixo `../` a mais                                 | `index.md` deve ter `hero_image: attachments/hero.jpg` (sem `../`)                                                 |
-| O grupo não aparece na galeria                                  | `published: false` no frontmatter, ou o último push falhou  | Confirmar `published: true`. No GitHub Desktop, ver se há commits por enviar (*Push origin*).                       |
-| Conflito de merge no GitHub Desktop                             | Dois elementos editaram o mesmo ficheiro em paralelo        | Pedir ao professor. Para evitar: seguir o fluxo do líder técnico (secção 3).                                       |
+| Problema                                                        | Causa provável                                             | Solução                                                                                                        |
+| --------------------------------------------------------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| As imagens não aparecem na galeria pública                      | Links em formato Wiki `![[ ]]`                             | Verificar que estão no formato Markdown `![](caminho)`. Vault config deve ter "Use \[\[Wikilinks]]" desligado. |
+| Hero não aparece numa sub-página (`processo.md`, `contexto.md`) | Falta o prefixo `../`                                      | Frontmatter deve ter `hero_image: ../attachments/hero.jpg`                                                     |
+| Hero não aparece no `index.md` da raiz do grupo                 | Tem um prefixo `../` a mais                                | `index.md` deve ter `hero_image: attachments/hero.jpg` (sem `../`)                                             |
+| O grupo não aparece na galeria                                  | `published: false` no frontmatter, ou o último push falhou | Confirmar `published: true`. No GitHub Desktop, ver se há commits por enviar (*Push origin*).                  |
+| Conflito de merge no GitHub Desktop                             | Dois elementos editaram o mesmo ficheiro em paralelo       | Pedir ao professor. Para evitar: seguir o fluxo do líder técnico (secção 3).                                   |
 
 ---
 
