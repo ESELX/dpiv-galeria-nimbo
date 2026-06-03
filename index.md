@@ -53,7 +53,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
   <a class="gallery-card" href="produtos/Nimbinho/">
-    <img src="produtos/Tico/attachments/capaindividual.png" alt="" />
+    <img src="produtos/Nimbinho/attachments/capaindividual.png" alt="" />
     <h3>Tico</h3>
     <p>Adriana Gomes</p>
   </a>
