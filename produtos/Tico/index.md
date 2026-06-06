@@ -64,7 +64,7 @@ O brinquedo pode ser utilizado de duas formas principais:
 ## Apresentação
 
 ![](attachments/PranchaResumo02.jpg)
-![](attachments/placeholder.png)
+
 
 ---
 
