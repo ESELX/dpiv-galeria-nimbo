@@ -27,8 +27,7 @@ Fotografias dos protótipos Finais
 
 Maquinação CNC, montagem, acabamentos pontuais. 
 
-![697](attachments/CNC-01.JPG)
-![](attachments/CNC-02.jpg)
+![](attachments/CNC-01.JPG)![](attachments/CNC-02.jpg)
 ![](attachments/CNC-03.JPG)
 ![](attachments/CNC-04.JPG)
 ![](attachments/CNC-05.jpg)
