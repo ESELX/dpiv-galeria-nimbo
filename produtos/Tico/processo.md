@@ -55,22 +55,25 @@ pranchas A3 de síntese,
 exploração de variantes.
 
 ![](attachments/Esboços-01.jpg)
-![697](attachments/Esboços-02.jpg)
+![537](attachments/Esboços-02.jpg)
 ![](attachments/Esboços-03.jpg)
 ![](attachments/Esboços-04.jpg)
 
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
-
-![](attachments/placeholder.png)
+![](attachments/451F617D-8A52-464C-8BE0-A1C31A988921.jpg)
+A partir do moodboard, com as referências do Tucano o foco centrou-se na simplificação da linguagem visual. O tucano foi desconstruído em volumes básicos, reduzindo detalhes e mantendo apenas as suas características mais reconhecíveis.
+Esta simplificação facilita a produção em CNC e a criação de peças funcionais. 
 
 ### 7.2. Objetos de referencia
 
 Inventário de precedentes, brinquedos análogos, referências históricas.
 
-![](attachments/placeholder.png)
-
+![](attachments/Design%20de%20Produto%20(1).jpg)
+1) **Jogos de empilhamento e equilíbrio** – brinquedos em que o utilizador empilha peças sem deixar a estrutura cair, estimulando a concentração, a precisão e a estratégia.
+2) **Brinquedos inspirados em animais** – objetos lúdicos que utilizam formas simplificadas de animais como elemento visual e educativo, aproximando as crianças da natureza.
+3) **Brinquedos de construção modulares** – sistemas de peças reutilizáveis que permitem diferentes formas de montagem, incentivando a criatividade e a experimentação.
 ## 9. Outros Elementos
 
 Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
