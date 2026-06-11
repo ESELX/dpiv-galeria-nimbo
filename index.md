@@ -58,7 +58,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
     <p>Adriana Gomes</p>
   </a>
     <a class="gallery-card" href="produtos/Fante/">
-    <img src="produtos/Fante/attachments/bardo.jpg" alt="" />
+    <img src="produtos/Fante/attachments/fante_model_.jpg" alt="" />
     <h3>Elefante</h3>
     <p>Duarte Pereira</p>
   </a>
