@@ -1,11 +1,11 @@
 ---
-title: "Processo"
+title: Processo
 icon: lucide/git-branch
 tags: galeria
 status: not-started
-hero_image: ../attachments/hero.jpg
-hero_title: "Processo"
-hero_subtitle: "Iterações, modelos, pesquisa"
+hero_image: ../attachments/fante_model_.jpg
+hero_title: Processo
+hero_subtitle: Iterações, modelos, pesquisa
 hero_height: 50vh
 hero_overlay: 0.3
 hero_align: center
@@ -41,7 +41,8 @@ Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
 Embed do Fusion (visualização do modelo paramétrico).
 
 https://a360.co/4nqYoPa
-
+![](attachments/Captura%20de%20ecrã%202026-06-11%20160127.png)
+![](attachments/Captura%20de%20ecrã%202026-06-01%20133004%201.png)
 ## 5. Outros Modelos
 
 Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
@@ -53,15 +54,17 @@ Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 Desenhos manuais, 
 pranchas A3 de síntese, 
 exploração de variantes.
-
-![](attachments/placeholder.png)
-
+![](attachments/Captura%20de%20ecrã%202026-06-11%20163810.png)
+![](attachments/IMG_0435.jpg)
+![](attachments/IMG_0434.jpg)
+![](attachments/IMG_0385.jpg)
+![](attachments/IMG_0381.jpg)
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
-
-![](attachments/placeholder.png)
-
+O que mais valorizei no meu moodboard foi a simplicidade da forma do elefante, porque ele consegue ser facilmente reconhecido mesmo com poucos elementos, mantendo uma silhueta clara e equilibrada
+![](attachments/Captura%20de%20ecrã%202026-06-11%20163025.png)
+![](attachments/Captura%20de%20ecrã%202026-06-11%20164253.png)
 ### 7.2. Objetos de referencia
 
 Inventário de precedentes, brinquedos análogos, referências históricas.
