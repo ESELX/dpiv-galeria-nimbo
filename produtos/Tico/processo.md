@@ -57,8 +57,8 @@ exploração de variantes.
 ![](attachments/Esboços-01.jpg)
 ![537](attachments/Esboços-02.jpg)
 ![](attachments/Esboços-03.jpg)
-![](attachments/Esboços-04.jpg)
-
+![](attachments/2.jpg)
+![](attachments/DAS.jpg)
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
