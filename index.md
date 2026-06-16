@@ -58,12 +58,12 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
     <p>Adriana Gomes</p>
   </a>
     <a class="gallery-card" href="produtos/Fante/">
-    <img src="produtos/Fante/attachments/fante_model_.jpg" alt="" />
+    <img src="produtos/Fante/attachments/CapaDaurte.png" alt="" />
     <h3>Elefante</h3>
     <p>Duarte Pereira</p>
   </a>
     <a class="gallery-card" href="produtos/Leia/">
-    <img src="produtos/Leia/attachments/bardo.jpg" alt="" />
+    <img src="produtos/Leia/attachments/CapaLaurette.png" alt="" />
     <h3>Baleia</h3>
     <p>Laura Hagemeijer </p>
   </a>
