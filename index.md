@@ -30,7 +30,7 @@ group_number: ""
 ---
 
 ## Contexto de Design
-![](attachments/placeholder.png)
+![](attachments/Gemini_Generated_Image_n7u99hn7u99hn7u9%20(1).png)
 > Nesta zona pretenderão mostrar o que relaciona estes produtos que apresentam na galeria - a temática, conceito comum, objectivos comuns, brincadeiras (funções) comuns, entre outros...
 
 (devem colocar imagens no corpo a qq momento, bastará que as arrastem para aqui.)
