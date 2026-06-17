@@ -3,7 +3,7 @@ title: Contexto de Design
 icon: lucide/book-open
 tags: galeria
 status: not-started
-hero_image: /attachments/Gemini_Generated_Image_n7u99hn7u99hn7u9 (1).png
+hero_image: /attachments/Grupo.png
 hero_title: Contexto de Design
 hero_subtitle: Enquadramento do grupo
 hero_height: 60vh
@@ -13,7 +13,7 @@ published: true
 ---
 
 # Contexto de Design
-![](attachments/Gemini_Generated_Image_n7u99hn7u99hn7u9%20(1).png)
+![](attachments/Grupo.png)
  Imagem gerada pelo gemini 
 
 ## 1. Resumo / Abstract
