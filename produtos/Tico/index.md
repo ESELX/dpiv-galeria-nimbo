@@ -1,5 +1,5 @@
 ---
-title: Nome do Produto
+title: Tico
 icon: lucide/box
 tags: galeria
 status: not-started
@@ -15,12 +15,9 @@ student_number: ""
 ---
 
 # Tico
-
-<!--
-  HERO: idealmente uma pseudo-sessão fotográfica do produto
-  (ver tutorial Pletor.ai nos Recursos da disciplina, em
-  /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
--->
+![](attachments/a3aae1ed-ed5f-4cab-87a4-876870ed63fd%201.png)
+![](attachments/7e8d3e85-1833-43b7-b06d-06eda16a1316%201.png)
+%% Imagens geradas pelo pletor.ai %%
 
 > Brinquedo inspirado num tucano, que combina puzzle de encaixe e jogo de equilíbrio.
 

@@ -1,11 +1,11 @@
 ---
-title: "Nome do Produto"
+title: Leia
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
-hero_title: "Nome do Produto"
-hero_subtitle: "Nome do Aluno · 2025-26"
+hero_image: attachments/CapaLaurette.png
+hero_title: Leia
+hero_subtitle: Laura Hagemeijer · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
@@ -14,8 +14,8 @@ student_name: ""
 student_number: ""
 ---
 
-# Nimbinho
-
+# Leia
+![](attachments/CapaLaurette.png)
 <!--
   HERO: idealmente uma pseudo-sessão fotográfica do produto
   (ver tutorial Pletor.ai nos Recursos da disciplina, em

@@ -3,7 +3,7 @@ title: Fante
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/fante_model_
+hero_image: attachments/CapaDaurte.png
 hero_title: Fante
 hero_subtitle: Daurte Pereira · 2025-26
 hero_height: 80vh
@@ -19,9 +19,9 @@ Fante
   HERO: idealmente uma pseudo-sessão fotográfica do produto
   (ver tutorial Pletor.ai nos Recursos da disciplina, em
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
--->
+-->![](attachments/CapaDuarte.png)
 
-> Frase-conceito (uma linha): qual é a proposta?
+> Criação de um brinquedo baseado num elefante
 
 A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
 Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
