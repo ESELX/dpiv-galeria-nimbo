@@ -16,8 +16,7 @@ student_number: ""
 
 # Tico
 ![](attachments/a3aae1ed-ed5f-4cab-87a4-876870ed63fd%201.png)
-![](attachments/7e8d3e85-1833-43b7-b06d-06eda16a1316%201.png)
-%% Imagens geradas pelo pletor.ai %%
+![](attachments/7e8d3e85-1833-43b7-b06d-06eda16a1316%201.png)Imagens geradas pelo pletor.ai
 
 > Brinquedo inspirado num tucano, que combina puzzle de encaixe e jogo de equilíbrio.
 
@@ -25,6 +24,7 @@ A página deve tornar **visualmente percetível** a estratégia de resposta ao e
 Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 
 ## Conceito
+
 Este projeto consiste na elaboração de um brinquedo inspirado num tucano. Podendo ser produzido a partir de resíduos industriais reaproveitados através de um sistema digital de corte CNC, o brinquedo utiliza encaixes de deslize que ao serem montadas dão origem á figura de um tucano, essas mesmas peças podem ser usadas numa brincadeira de empilhamento.
 
 **O quê?** É um brinquedo inspirado num tucano, desenvolvido a partir de resíduos industriais e produzido para resistir ao processo de fabrico CNC. Funciona como um puzzle de encaixe, em que as peças se unem para formar a figura do animal, mas também podem ser utilizadas num jogo de empilhamento e equilíbrio.

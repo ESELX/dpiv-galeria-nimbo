@@ -13,7 +13,8 @@ published: true
 ---
 
 # Contexto de Design
-![](attachments/Gemini_Generated_Image_n7u99hn7u99hn7u9%20(1).png)%% Imagem gerada pelo gemini %% 
+![](attachments/Gemini_Generated_Image_n7u99hn7u99hn7u9%20(1).png)
+ Imagem gerada pelo gemini 
 
 ## 1. Resumo / Abstract
 
@@ -34,7 +35,7 @@ Each toy is inspired by a specific animal and its distinctive characteristics wi
 Catálogo de objetos de partida que o grupo identificou para o redesenho. Para cada objeto: imagem, origem, motivo da escolha.
 
 - **Objeto 1**
-Planet Happy -%%  Brinquedo Educativo De Empilhar De Madeira Bigjigs Com Animais Selvagens %%
+Planet Happy -  Brinquedo Educativo De Empilhar De Madeira Bigjigs Com Animais Selvagens 
 ![](attachments/Captura%20de%20ecrã%202026-06-17%20212119%201.png)
 
 **Origem:**  Brinquedo educativo em madeira inspirado em animais.
@@ -49,3 +50,5 @@ Painel de referências visuais e conceptuais que orientam a estratégia do grupo
 ![](attachments/boxe%203.jpg)
 ![](attachments/boxx%202.jpg)
 ![](attachments/box%2001.jpg)![](attachments/Box_Mockup_2%201.png)
+
+[^1]: 
