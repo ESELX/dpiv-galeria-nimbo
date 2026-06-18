@@ -63,8 +63,8 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
     <p>Duarte Pereira</p>
   </a>
     <a class="gallery-card" href="produtos/Leia/">
-    <img src="produtos/Leia/attachments/CapaLaurette.png" alt="" />
-    <h3>Baleia</h3>
+    <img src="produtos/Aquazzle/attachments/CapaLaurette.png" alt="" />
+    <h3>Aquazzle</h3>
     <p>Laura Hagemeijer </p>
   </a>
 
